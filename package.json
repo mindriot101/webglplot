@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:mindriot101/webglplot.git",
   "author": "Simon Walker <s.r.walker101@googlemail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
 }
